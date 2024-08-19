@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.507a3381.css",
+    "main.js": "/static/js/main.3c525b0a.js",
+    "static/media/img4.jpg": "/static/media/img4.df7c0c5bba5c239549bb.jpg",
+    "static/media/img2.jpg": "/static/media/img2.1d794fae6347dfdcec8b.jpg",
+    "static/media/Nuii.jpg": "/static/media/Nuii.f56918be8cef50647541.jpg",
+    "static/media/img3.jpg": "/static/media/img3.816f02526d4308d599e8.jpg",
+    "static/media/img1.jpg": "/static/media/img1.dec8c4052ed41a6fa093.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.3c525b0a.js"
+  ]
+}
